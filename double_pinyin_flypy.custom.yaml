@@ -1,0 +1,6 @@
+patch:
+  schema/name: 小鹤双拼
+
+  __include: emoji_suggestion:/patch
+
+  translator/preedit_format:

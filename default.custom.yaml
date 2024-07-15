@@ -1,0 +1,15 @@
+patch:
+  schema_list:
+    - schema: double_pinyin_flypy # 小鹤双拼
+    - schema: luna_pinyin # 朙月拼音
+
+  menu:
+    page_size: 9
+
+  switcher/save_options:
+    - full_shape
+    - ascii_punct
+    - simplification
+    - extended_charset
+    - zh_hans
+    - emoji_suggestion
